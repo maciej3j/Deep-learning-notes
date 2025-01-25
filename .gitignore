@@ -1,2 +1,4 @@
 deepunderstandingofdeeplearning/
 .ipynb_checkpoints/
+.vscode/
+*.json
